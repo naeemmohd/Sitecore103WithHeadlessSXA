@@ -1,0 +1,30 @@
+﻿---
+ID: "af0a9992-5771-5a18-a1bd-4fdee87e94e9"
+Parent: "9dd74cf9-2fbe-58a6-8fdd-15cfbe426c07"
+Template: "575247ea-b3cb-59fd-b829-5eb262e2c4be"
+Path: /sitecore/content/StarterKit/Content/Styleguide/ItemLinkField/Item2
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Styleguide Item Link Item 2 (Shared)
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001410Z
+    - ID: "4ff8cdd9-d98a-5981-bf17-29b5385a6081"
+      Hint: textField
+      Value: ItemLink Demo (Shared) Item 2 Text Field
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12e8ba5a-497b-4003-a3c1-5329af1d2fd3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001410Z

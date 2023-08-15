@@ -1,0 +1,52 @@
+﻿---
+ID: "2c253fad-6843-56ce-883f-235994e34ee2"
+Parent: "1f932ac3-ad10-5c73-b4f3-10ee3a4ab643"
+Template: "c6ff2023-15c6-56b1-8ae5-d628d12504e5"
+Path: "/sitecore/content/StarterKit/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1172b6fb-4620-52cf-b395-87eff54fedce"
+      Hint: localContentList
+      Value: |
+        {EBE676A2-E430-512D-8E18-F898EE512B2F}
+        {744163D9-6F8E-5601-A776-02B7CA202450}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001412Z
+    - ID: "49981fa3-82ce-576d-bde6-e8a7c8f6fa3e"
+      Hint: heading
+      Value: Content List
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "917f99aa-fe2b-4fa6-b785-1ce364b70b51"
+    - ID: "900a20be-9d4f-5973-aa31-69c4801d36d9"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001412Z
+    - ID: "ed2dfbe4-bb63-5cb3-bb32-14e34fafd78a"
+      Hint: sharedContentList
+      Value: |
+        {619F7B93-2844-5D57-8EF9-81E44477CB80}
+        {DBBB8B74-34F3-565D-9575-71D2E303F706}

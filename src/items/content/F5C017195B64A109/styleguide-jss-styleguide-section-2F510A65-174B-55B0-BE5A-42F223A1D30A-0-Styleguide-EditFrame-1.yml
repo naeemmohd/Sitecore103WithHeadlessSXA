@@ -1,0 +1,38 @@
+﻿---
+ID: "bf5d74c5-3227-5e1d-9fa5-79dc47b0e73a"
+Parent: "1f932ac3-ad10-5c73-b4f3-10ee3a4ab643"
+Template: "fd9cdce8-b03f-5491-9e2b-86ed2ea78860"
+Path: "/sitecore/content/StarterKit/home/styleguide/Page Components/styleguide-jss-styleguide-section-2F510A65-174B-55B0-BE5A-42F223A1D30A-0-Styleguide-EditFrame-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-EditFrame-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b37c12c-c414-5d8d-b58b-18d4e346c794"
+      Hint: heading
+      Value: Edit Frame
+    - ID: "221d8cc8-9fbd-5da8-bc56-ce0a4329f7be"
+      Hint: description
+      Value: "<p>Who framed Roger Rabbit? Hard to say. <br /> But JSS now allows to edit frame any piece of content on a page in editing mode. <br /> You can add web edit or field edit buttons, modify edit frame style through CSS class and put the frame wherever you need it. </p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001413Z
+    - ID: "753a71c4-a53f-5646-b6dd-c1d66f16668f"
+      Hint: sampleList
+      Value: |
+        {C37138DD-04D3-5CBC-8A02-1A848E857AA3}
+        {76283F8E-F152-5FBC-80B3-BF5E8305AA3F}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "02bb6e86-b477-4dd3-a047-0f61c2f39f52"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001413Z

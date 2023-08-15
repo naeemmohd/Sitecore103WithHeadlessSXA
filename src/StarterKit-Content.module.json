@@ -1,0 +1,16 @@
+{
+    "namespace": "StarterKit-Content",
+    "references": [ "StarterKit" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/StarterKit"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/starterkit"
+            }
+        ]
+    }
+}

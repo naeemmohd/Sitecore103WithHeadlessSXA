@@ -1,0 +1,31 @@
+﻿---
+ID: "6ea73bed-e0ff-5c0a-8085-d2bcabef9b17"
+Parent: "fd375a9b-ee81-54fc-999b-65f1cc1398f2"
+Template: "fd375a9b-ee81-54fc-999b-65f1cc1398f2"
+Path: "/sitecore/templates/Project/starterkit/Styleguide-FieldUsage-Number/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001358Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "5f0ee3c8-56e2-4ec3-b9fe-3e53ac4fb1d8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001358Z

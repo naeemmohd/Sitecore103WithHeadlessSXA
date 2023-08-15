@@ -1,0 +1,30 @@
+﻿---
+ID: "85377298-60d3-5966-8241-4fa20b71f03b"
+Parent: "fa49816f-bdca-5885-9984-608b9fc62b67"
+Template: "3cc0d913-49c5-57a8-8085-7943ce79c679"
+Path: /sitecore/content/StarterKit/Components/Styleguide/ContentReuse/LoremIpsumContentBlock
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Lorem Ipsum Dolor Sit Amet
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001409Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2a7a5628-8b2b-4ff2-8021-33625b8479a2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001409Z
+    - ID: "eca825b1-79c3-5fa0-bd04-a02803fbd9c4"
+      Hint: content
+      Value: <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque felis mauris, pretium id neque vitae, vulputate pellentesque tortor. Mauris hendrerit dolor et ipsum lobortis bibendum non finibus neque. Morbi volutpat aliquam magna id posuere. Duis commodo cursus dui, nec interdum velit congue nec. Aliquam erat volutpat. Aliquam facilisis, sapien quis fringilla tincidunt, magna nulla feugiat neque, a consectetur arcu orci eu augue.</p>

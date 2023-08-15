@@ -1,0 +1,30 @@
+﻿---
+ID: "ebe676a2-e430-512d-8e18-f898ee512b2f"
+Parent: "2c253fad-6843-56ce-883f-235994e34ee2"
+Template: "e923ce10-24d5-59af-9360-305986ad7809"
+Path: "/sitecore/content/StarterKit/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4/styleguide-jss-styleguide-section-B7BF1F3509A82A38C71B36F25C4E58E2D04EC965C308A1147E993853137210F241"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11-item-0"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001412Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26ca86f1-3236-4bc4-a5a1-738adc293f5a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001412Z
+    - ID: "e1d96d18-8f05-574a-9b22-b4c82d6258e5"
+      Hint: textField
+      Value: Hello World Item 1

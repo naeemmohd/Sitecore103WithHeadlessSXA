@@ -1,0 +1,39 @@
+﻿---
+ID: "b277f314-9527-5cde-8458-c98aa0ea9599"
+Parent: "1f932ac3-ad10-5c73-b4f3-10ee3a4ab643"
+Template: "e22596a1-9697-59a1-b986-86c33c700ed2"
+Path: "/sitecore/content/StarterKit/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7B6D0D083AF28BE2E849050EECB75276B05E9E7DBBA39FDE6E41E6CA301251D4F"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-File-5"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001412Z
+    - ID: "3fbd3679-d131-5afc-84e9-356512e40c70"
+      Hint: file
+      Value: |
+        <file mediaid="{751717BC-9EEE-5323-B87F-37B13C2D3D6E}" />
+    - ID: "49981fa3-82ce-576d-bde6-e8a7c8f6fa3e"
+      Hint: heading
+      Value: File
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6c4eb49e-f6cf-49c8-a03a-8fdfa9757336"
+    - ID: "900a20be-9d4f-5973-aa31-69c4801d36d9"
+      Hint: description
+      Value: |
+        <small>Note: Sitecore does not support inline editing of File fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.</small>
+        
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001412Z

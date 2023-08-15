@@ -1,0 +1,49 @@
+﻿---
+ID: "7aa06373-f19b-5660-8c62-06a7c9af3391"
+Parent: "1f932ac3-ad10-5c73-b4f3-10ee3a4ab643"
+Template: "b5d4f0d3-baae-50aa-959e-55d3edb619a4"
+Path: "/sitecore/content/StarterKit/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230812T001412Z
+    - ID: "49981fa3-82ce-576d-bde6-e8a7c8f6fa3e"
+      Hint: heading
+      Value: General Link
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "26be8ab5-3066-4225-9870-88b185ee58f2"
+    - ID: "900a20be-9d4f-5973-aa31-69c4801d36d9"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+    - ID: "b5f032b1-696e-53d9-bbcd-6e6b7b128aa8"
+      Hint: paramsLink
+      Value: |
+        <link class="fw-bold" target="_blank" title="&lt;a&gt; title attribute" linktype="external" text="Sitecore Dev Site" url="https://dev.sitecore.net" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d7f0cbf4-66b4-51fb-898c-ef554995aa0d"
+      Hint: externalLink
+      Value: |
+        <link linktype="external" text="Link to Sitecore" url="https://www.sitecore.com" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230812T001412Z
+    - ID: "e1470c2b-a818-5794-b115-28486c088a50"
+      Hint: emailLink
+      Value: |
+        <link linktype="mailto" text="Send an Email" url="mailto:foo@bar.com" />
+    - ID: "f48a683c-5577-5e6e-848a-b16f89f37c1f"
+      Hint: internalLink
+      Value: |
+        <link id="{47783B3B-F04F-5186-8175-A473B23BFE37}" linktype="internal" />
