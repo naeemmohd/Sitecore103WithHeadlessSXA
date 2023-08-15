@@ -1,0 +1,29 @@
+﻿---
+ID: "44cc44c9-141d-4225-a245-bf5a7ff0d566"
+Parent: "46dc6282-b7f9-4f43-9990-d6a86435f80e"
+Template: "ab939765-80d5-4bcb-9f2c-d5d26c8ad6eb"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Page 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T001236Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Page 4
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "89135574-afdc-4e94-949f-f3288127801a"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T001236Z
+    - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
+      Hint: Title
+      Value: Page 4

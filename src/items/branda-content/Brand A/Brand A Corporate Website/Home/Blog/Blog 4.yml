@@ -1,0 +1,57 @@
+﻿---
+ID: "73ef8f95-8709-40de-8668-e4ef643ff062"
+Parent: "688788af-2a33-4d26-acf0-ac07411cb67a"
+Template: "867d214a-cd72-4111-8881-a490e5b887fb"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Blog/Blog 4
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1aa9892a-1c13-40c6-9c03-454ff102d4f7"
+      Hint: Content
+      Value: |
+        <p>
+        There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+        <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T002112Z
+    - ID: "2b96565e-ff0c-4fa8-beb9-b269097b9765"
+      Hint: Author
+      Value: Test Author 4
+    - ID: "4eefe1f0-d808-444d-8afa-89a32cae9a47"
+      Hint: WebPublication
+      Value: 20210115T060000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68496a90-389c-407d-9ed6-e6bfa6e7dd4b"
+      Hint: LeadImage
+      Value: |
+        <image mediaid="{760447E9-39D6-4041-9C69-80A09B2FD6EA}" />
+    - ID: "6c615339-3b1b-4da9-8867-7d3ac4046bb4"
+      Hint: Authors
+      Value: "{32379028-0F66-4753-B101-03607662659E}|{87AC8AB5-4696-4CD3-9BAC-FAB0540EDD1E}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f975317-9a02-4c29-af24-dfdd7e24b250"
+    - ID: "90515096-613f-4161-afc7-6c85c81770c9"
+      Hint: Summary
+      Value: "Where can I get some?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T201053Z
+    - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
+      Hint: Title
+      Value: Blog 4

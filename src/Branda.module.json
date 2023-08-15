@@ -1,0 +1,19 @@
+{
+    "namespace": "BrandA-Content",
+    "items": {
+        "includes": [
+		    {
+                "name": "branda-templates",
+                "path": "/sitecore/templates/Project/Brand A"
+            },
+            {
+                "name": "branda-content",
+                "path": "/sitecore/content/Brand A"
+            },
+            {
+                "name": "brand-amedia",
+                "path": "/sitecore/media library/Project/Brand A"
+            }
+        ]
+    }
+}

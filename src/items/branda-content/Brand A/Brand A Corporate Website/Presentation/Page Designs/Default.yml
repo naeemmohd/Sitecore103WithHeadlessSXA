@@ -1,0 +1,35 @@
+﻿---
+ID: "67babba1-2b5d-4e99-ae6b-02391bad673c"
+Parent: "872f59fb-ba9d-454d-94b1-2ab3bab94e6f"
+Template: "76b795d4-0f83-44b3-baa5-002445966f68"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Page Designs/Default
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{A82514BA-1589-49E7-BD55-544071B213A6}|{3228BE47-DC5A-459D-8D98-8C5A3BAA50F0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230813T233802Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cda4ed84-1d90-450b-99d4-296c053b24db"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230813T233802Z

@@ -1,0 +1,53 @@
+﻿---
+ID: "8db0a231-8412-429f-80ac-065203c7f4d6"
+Parent: "688788af-2a33-4d26-acf0-ac07411cb67a"
+Template: "867d214a-cd72-4111-8881-a490e5b887fb"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Blog/Blog 7
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1aa9892a-1c13-40c6-9c03-454ff102d4f7"
+      Hint: Content
+      Value: |
+        <span style="color: #000000; background-color: #ffffff; text-align: justify;">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."</span>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T154242Z
+    - ID: "2b96565e-ff0c-4fa8-beb9-b269097b9765"
+      Hint: Author
+      Value: Test Author 7
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Blog 7
+    - ID: "4eefe1f0-d808-444d-8afa-89a32cae9a47"
+      Hint: WebPublication
+      Value: 20230807T050000Z
+    - ID: "68496a90-389c-407d-9ed6-e6bfa6e7dd4b"
+      Hint: LeadImage
+      Value: |
+        <image mediaid="{29F8F617-127C-4C29-B29A-07C3037A3F2C}" />
+    - ID: "6c615339-3b1b-4da9-8867-7d3ac4046bb4"
+      Hint: Authors
+      Value: "{A4147C28-3490-453A-99EA-A42C8C482C0B}|{66C83200-7B3C-4B89-B9D8-5E031503E5CF}|{EA37FEFD-6BC9-4C2F-A5EF-73B38F30AAB2}|{87AC8AB5-4696-4CD3-9BAC-FAB0540EDD1E}|{32379028-0F66-4753-B101-03607662659E}|{63D65092-D471-4101-8EF2-777ED157D1E1}|{96F61640-0759-40E8-A368-9749418455B4}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b176908e-587e-40d3-871b-e6a580edfb7c"
+    - ID: "90515096-613f-4161-afc7-6c85c81770c9"
+      Hint: Summary
+      Value: |
+        Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T203351Z
+    - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
+      Hint: Title
+      Value: Blog 7

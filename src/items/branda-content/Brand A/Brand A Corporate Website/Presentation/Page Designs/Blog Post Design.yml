@@ -1,0 +1,27 @@
+﻿---
+ID: "11b69b2d-05d4-42a7-9a04-95d845215ff0"
+Parent: "872f59fb-ba9d-454d-94b1-2ab3bab94e6f"
+Template: "76b795d4-0f83-44b3-baa5-002445966f68"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Page Designs/Blog Post Design
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{3228BE47-DC5A-459D-8D98-8C5A3BAA50F0}|{75C6DA7F-E991-4A0C-A424-49766F01B0FC}|{D87BBB19-CC48-4B0B-8971-84629AC2EDCC}|{B8BEFE29-8382-4677-A456-0CCBE7177EE4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T130134Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "647836ee-8d03-4a97-814f-5dfd85ecf6fb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T130241Z

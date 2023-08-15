@@ -1,0 +1,35 @@
+﻿---
+ID: "be7e39a7-8716-4232-b296-192fb81c2a0d"
+Parent: "cfc24e4f-04ba-43b3-bc8d-11c55a2b9d1d"
+Template: "73a99860-05a0-4dc1-82f1-10d31267e43f"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Rendering Variants/Page Content/Blog Post/Dividing Line
+SharedFields:
+- ID: "71df8bf2-caef-40fb-8c71-e416eb3ef75b"
+  Hint: Tag
+  Value: "{7700062B-73D1-4C6A-B005-FCEF3E4292C4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T012847Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "da6b8f5e-2aa3-4faa-84e3-9a00939c4b06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T013148Z

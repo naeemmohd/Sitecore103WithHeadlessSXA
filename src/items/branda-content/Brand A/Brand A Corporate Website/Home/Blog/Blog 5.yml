@@ -1,0 +1,57 @@
+﻿---
+ID: "8f0d03d3-00cf-4af4-90ee-6c98f4ac862e"
+Parent: "688788af-2a33-4d26-acf0-ac07411cb67a"
+Template: "867d214a-cd72-4111-8881-a490e5b887fb"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Blog/Blog 5
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1aa9892a-1c13-40c6-9c03-454ff102d4f7"
+      Hint: Content
+      Value: |
+        <p>
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T002112Z
+    - ID: "2b96565e-ff0c-4fa8-beb9-b269097b9765"
+      Hint: Author
+      Value: Test Author 5
+    - ID: "4eefe1f0-d808-444d-8afa-89a32cae9a47"
+      Hint: WebPublication
+      Value: 20210512T050000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68496a90-389c-407d-9ed6-e6bfa6e7dd4b"
+      Hint: LeadImage
+      Value: |
+        <image mediaid="{C7137D42-6FAF-4084-90D2-1CA10E925B56}" />
+    - ID: "6c615339-3b1b-4da9-8867-7d3ac4046bb4"
+      Hint: Authors
+      Value: "{EA37FEFD-6BC9-4C2F-A5EF-73B38F30AAB2}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c9d7dc5e-7209-4d40-b6d4-e3ceeebca055"
+    - ID: "90515096-613f-4161-afc7-6c85c81770c9"
+      Hint: Summary
+      Value: The standard Lorem Ipsum passage, used since the 1500s
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T201059Z
+    - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
+      Hint: Title
+      Value: Blog 5

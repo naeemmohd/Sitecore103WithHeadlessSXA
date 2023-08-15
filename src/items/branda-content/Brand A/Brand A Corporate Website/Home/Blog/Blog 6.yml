@@ -1,0 +1,57 @@
+﻿---
+ID: "2ea376a4-6aa1-4037-b009-f8f0c65eef1b"
+Parent: "688788af-2a33-4d26-acf0-ac07411cb67a"
+Template: "867d214a-cd72-4111-8881-a490e5b887fb"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Blog/Blog 6
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1aa9892a-1c13-40c6-9c03-454ff102d4f7"
+      Hint: Content
+      Value: |
+        <p>
+        "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+        <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+        <p>"But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T002112Z
+    - ID: "2b96565e-ff0c-4fa8-beb9-b269097b9765"
+      Hint: Author
+      Value: Test Author 6
+    - ID: "4eefe1f0-d808-444d-8afa-89a32cae9a47"
+      Hint: WebPublication
+      Value: 20230601T050000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68496a90-389c-407d-9ed6-e6bfa6e7dd4b"
+      Hint: LeadImage
+      Value: |
+        <image mediaid="{9CC326D7-0074-4438-AF3B-5F873C637BCB}" />
+    - ID: "6c615339-3b1b-4da9-8867-7d3ac4046bb4"
+      Hint: Authors
+      Value: "{EA37FEFD-6BC9-4C2F-A5EF-73B38F30AAB2}|{66C83200-7B3C-4B89-B9D8-5E031503E5CF}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "ede0d408-7dba-44e8-a41b-a9a09b4ea425"
+    - ID: "90515096-613f-4161-afc7-6c85c81770c9"
+      Hint: Summary
+      Value: 1914 translation by H. Rackham
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T201106Z
+    - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
+      Hint: Title
+      Value: Blog 6

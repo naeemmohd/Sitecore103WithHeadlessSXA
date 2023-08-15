@@ -3,6 +3,14 @@
     "references": [ "InitItems" ],
     "items": {
         "includes": [
+		    {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/starterkit"
+            },
+			{
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/starterkit"
+            },
             {
                 "name": "layouts",
                 "path": "/sitecore/layout/Layouts/Project/starterkit"
@@ -11,14 +19,8 @@
                 "name": "placeholders",
                 "path": "/sitecore/layout/Placeholder Settings/Project/starterkit"
             },
-            {
-                "name": "renderings",
-                "path": "/sitecore/layout/Renderings/Project/starterkit"
-            },
-            {
-                "name": "templates",
-                "path": "/sitecore/templates/Project/starterkit"
-            }
+
+
         ]
     }
 }

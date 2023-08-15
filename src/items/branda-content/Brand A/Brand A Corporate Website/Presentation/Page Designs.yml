@@ -1,0 +1,42 @@
+﻿---
+ID: "872f59fb-ba9d-454d-94b1-2ab3bab94e6f"
+Parent: "ab3c8420-d05e-4365-8a30-3f0d8b521cbc"
+Template: "df38aebe-45ad-4a6c-afd8-149ec0117517"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Page Designs
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7bAB939765-80D5-4BCB-9F2C-D5D26C8AD6EB%7d%3d%257B135DE7B9-9A0F-45B4-AA47-FA5E428BE2D0%257D%26%7b84C0A62E-ACC2-42DE-9AED-4412DC863AC5%7d%3d%257B67BABBA1-2B5D-4E99-AE6B-02391BAD673C%257D%26%7b867D214A-CD72-4111-8881-A490E5B887FB%7d%3d%257B11B69B2D-05D4-42A7-9A04-95D845215FF0%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257BE99B315F-8C89-4419-A84F-BE1005EF2DDC%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230813T233721Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9ea90c5d-5579-4701-851e-0f23b7012777"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T130305Z

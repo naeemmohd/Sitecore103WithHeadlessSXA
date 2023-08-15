@@ -1,0 +1,56 @@
+﻿---
+ID: "a4147c28-3490-453a-99ea-a42c8c482c0b"
+Parent: "821a0c7f-8105-402e-9776-617011c62317"
+Template: "031c8c32-c1f0-48d4-9079-7cc729300e3e"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Data/Authors/Test 7 Author 7
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/user2.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "21d368c6-67f1-46a4-ac1c-f5a21ef2df4e"
+      Hint: Related Media
+      Value: |
+        {9B616007-83E4-4D44-B453-0F2B5D5179DD}
+        {468DA96F-AF39-4BDD-97C3-942B808272CB}
+        {024ED6FE-4B1D-48AF-9FA5-C35D0A13BB01}
+        {F9546E64-FDE1-4CAE-BB45-C9F48F38171D}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T160446Z
+    - ID: "26721911-9b60-469c-9044-03fc20c257ef"
+      Hint: Bio
+      Value: |
+        "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?"
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9af106c7-688c-4a6f-9be4-ab3eae07ca13"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c52abd44-91fe-4b53-973a-02d2dea43e61"
+      Hint: Last Name
+      Value: Author 7
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230814T163622Z
+    - ID: "f6b125c6-0ab0-4fb1-b2b0-e82e85f4d1fa"
+      Hint: First Name
+      Value: Test 7
+    - ID: "f786fa16-cc31-4175-9091-c0915f9a604e"
+      Hint: Picture
+      Value: |
+        <image mediaid="{C9C06855-CD2A-42F6-A060-A856DE8B8CF1}" />
