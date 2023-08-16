@@ -1,0 +1,39 @@
+﻿---
+ID: "1ffec863-ebd5-45b0-b6f5-f0aebbd01f39"
+Parent: "a2366e38-aec0-4071-a242-9a8947836feb"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Rendering Variants/Multi Promo/Default/Linked Promos/Wrapper/Promo Icon
+BranchID: "bc51e5ae-9e0b-4faf-9fe6-1e5c15b13c8f"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoIcon
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{4057AAE0-0B54-4AC4-BBD8-ED0830D770B3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230816T230422Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b1efce3f-8361-4e15-b890-6b38dae0e264"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230816T233632Z

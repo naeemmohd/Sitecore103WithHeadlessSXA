@@ -1,0 +1,46 @@
+﻿---
+ID: "e5688ee6-ab5b-4dde-a945-a1cec7a0501f"
+Parent: "eb8eb059-9797-4ff0-9f84-40f7add491f6"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Data/Promos/My Promos/Promo 3
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: 
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <span style="background-color: #ffffff; text-align: justify; color: #000000;">The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.</span>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{4FFC3A10-4BA5-4528-BFF9-F87A9E6D3315}" ></image>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230816T202039Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2788e776-fd40-45fc-ae27-81c3877a0afb"
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="" querystring="" id="{5F95EE98-DAC1-4BCA-B2D7-AAB10B834D0C}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230816T234050Z

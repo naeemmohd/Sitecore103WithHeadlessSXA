@@ -6,7 +6,19 @@ Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Blog
 SharedFields:
 - ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
   Hint: __Renderings
-  Value: 
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{D7B6E2DE-4601-4DF9-89E8-DCFDE8D9D1E8}"
+          s:ds="{81B5042F-13A5-475A-9A8A-7E74F3AFB9D2}"
+          s:id="{0D797B4F-B397-4EE8-B54A-8EA235E4BDD6}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D&amp;FieldNames=%7B21106293-9C96-4870-83A6-C168A049A5F8%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main" />
+      </d>
+    </r>
 Languages:
 - Language: en
   Versions:
@@ -28,14 +40,14 @@ Languages:
       Value: Blog
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "6bdee0f9-c389-4a18-8cf0-96cfb649915d"
+      Value: "0c1309a3-b8eb-4815-8322-5c37fb4f5c88"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230814T012502Z
+      Value: 20230816T234050Z
     - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
       Hint: Title
       Value: Blog

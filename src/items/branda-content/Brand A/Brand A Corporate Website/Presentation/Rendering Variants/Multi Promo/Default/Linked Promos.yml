@@ -1,0 +1,35 @@
+﻿---
+ID: "450b5f53-e895-4162-b827-15f74df73ded"
+Parent: "21106293-9c96-4870-83a6-c168a049a5f8"
+Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Rendering Variants/Multi Promo/Default/Linked Promos
+SharedFields:
+- ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
+  Hint: PassThroughField
+  Value: Linked Promos
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230816T233527Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fa0beaeb-450b-46b9-a556-f7cc14dd2953"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230816T233527Z

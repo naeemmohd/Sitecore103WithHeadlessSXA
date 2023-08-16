@@ -1,0 +1,23 @@
+﻿---
+ID: "26fc00a3-00ef-4038-9743-e806117d7427"
+Parent: "4692ca25-8d02-420a-9622-d46607c73208"
+Template: "c9c77648-112b-409e-ae82-857891569a2f"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Data/Multi Promo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230816T230422Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c8abafc0-fbd5-46bd-b6d2-2f97af36337f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230816T230422Z

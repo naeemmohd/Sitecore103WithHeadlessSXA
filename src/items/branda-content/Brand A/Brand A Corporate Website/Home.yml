@@ -5,6 +5,36 @@ Template: "84c0a62e-acc2-42de-9aed-4412dc863ac5"
 Path: /sitecore/content/Brand A/Brand A Corporate Website/Home
 BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
 SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{2EE31F6B-C8E0-4545-A9AE-38D4BD16B5FD}"
+          p:before="*"
+          s:ds="{6C2245F7-F287-4489-8CB4-058F7F4D4365}"
+          s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BF6FDDF61-C60E-46D1-A4A7-978EBDBE9620%7D&amp;FieldNames=%7BC52B1213-3FA9-4CAD-AB12-662F543E6284%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main" />
+        <r
+          uid="{BFAA6778-3C9F-4846-8935-264963FE86C9}"
+          p:after="r[@uid='{2EE31F6B-C8E0-4545-A9AE-38D4BD16B5FD}']"
+          s:ds="{8DABE640-61AA-4838-A852-2CB2C6BF1FA3}"
+          s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BF6FDDF61-C60E-46D1-A4A7-978EBDBE9620%7D&amp;FieldNames=%7BC52B1213-3FA9-4CAD-AB12-662F543E6284%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+          s:ph="main" />
+        <r
+          uid="{2219CE14-EBDA-4189-A0F8-E5E87D74EBED}"
+          p:after="*[1=2]"
+          s:ds="{E5688EE6-AB5B-4DDE-A945-A1CEC7A0501F}"
+          s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B7465D855-992E-4DC2-9855-A03250DFA74B%7D%7C%7BF6FDDF61-C60E-46D1-A4A7-978EBDBE9620%7D&amp;FieldNames=%7BC52B1213-3FA9-4CAD-AB12-662F543E6284%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+          s:ph="main" />
+      </d>
+    </r>
 - ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
   Hint: __Originator
   Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
@@ -13,6 +43,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230813T233720Z
@@ -29,14 +62,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "c3059645-fc2a-49d5-b4d8-395712d05f20"
+      Value: "4e8ddd7b-c1ab-4d8a-b94b-ee69d24124a4"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230813T233728Z
+      Value: 20230816T203131Z
     - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
       Hint: Title
       Value: Brand A Corporate Website

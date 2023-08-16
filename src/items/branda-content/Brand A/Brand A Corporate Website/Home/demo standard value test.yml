@@ -1,0 +1,29 @@
+﻿---
+ID: "b029f4c7-1b02-484e-aa24-ef3c31ee1292"
+Parent: "46dc6282-b7f9-4f43-9990-d6a86435f80e"
+Template: "32ee0ee5-3d04-413e-a038-a8c6f7d00302"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/demo standard value test
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230816T194009Z
+    - ID: "4c4857c2-215e-4d18-b721-5c2c337f86c8"
+      Hint: Name
+      Value: demo standard value test
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "78b5b274-c3f5-447b-b89f-29a73ae2e4e3"
+    - ID: "b20bf808-f893-49ad-b853-06fc1cd42c41"
+      Hint: TodayIs
+      Value: 20230816T194009Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230816T194009Z

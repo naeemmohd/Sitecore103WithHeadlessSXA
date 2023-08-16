@@ -1,0 +1,65 @@
+﻿---
+ID: "aaa9d098-9f4a-4f86-aa20-de8fd744892c"
+Parent: "32ee0ee5-3d04-413e-a038-a8c6f7d00302"
+Template: "32ee0ee5-3d04-413e-a038-a8c6f7d00302"
+Path: /sitecore/templates/Project/Brand A/training/standard value test/standard value test/__Standard Values
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{14030E9F-CE92-49C6-AD87-7D49B50E42EA}">
+        <r
+          id="{885B8314-7D8C-4CBB-8000-01421EA8F406}"
+          ph="main"
+          uid="{485F63DF-59DA-4E4F-B185-3AEFB8F14CBC}" />
+        <r
+          id="{CE4ADCFB-7990-4980-83FB-A00C1E3673DB}"
+          ph="/main/centercolumn"
+          uid="{DBE1066D-0610-486D-A5EC-2B1DB53B1F3F}" />
+        <r
+          id="{493B3A83-0FA7-4484-8FC9-4680991CF743}"
+          ph="/main/centercolumn/content"
+          uid="{697A2F2C-8F7B-4A3C-BB41-9AE482A33DBD}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "190d2706-0aa3-4c0a-bf93-0fb9b68e5c9f"
+      Hint: Age
+      Value: 18
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230816T193232Z
+    - ID: "4bd0df32-42fc-478c-94f7-bc9292a97b5b"
+      Hint: DOB
+      Value: 20230816T193300Z
+    - ID: "4c4857c2-215e-4d18-b721-5c2c337f86c8"
+      Hint: Name
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "05ebbe4d-0a0f-4440-a3b2-13f629e81baf"
+    - ID: "b20bf808-f893-49ad-b853-06fc1cd42c41"
+      Hint: TodayIs
+      Value: $now
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230816T194203Z

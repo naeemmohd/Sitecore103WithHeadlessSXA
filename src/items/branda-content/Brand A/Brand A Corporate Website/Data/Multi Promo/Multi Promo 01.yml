@@ -1,0 +1,37 @@
+﻿---
+ID: "81b5042f-13a5-475a-9a8a-7e74f3afb9d2"
+Parent: "26fc00a3-00ef-4038-9743-e806117d7427"
+Template: "adfb1c08-c6ae-452c-b359-dd12bfb4cc2e"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Data/Multi Promo/Multi Promo 01
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "20d3c096-2e0f-4a1d-b779-7cb88ff3e9a2"
+      Hint: Linked Promos
+      Value: "{6C2245F7-F287-4489-8CB4-058F7F4D4365}|{8DABE640-61AA-4838-A852-2CB2C6BF1FA3}|{E5688EE6-AB5B-4DDE-A945-A1CEC7A0501F}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230816T233243Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8233a97c-3cd7-4be9-999b-6068a7ef99b8"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "ca27ea05-a831-41f1-9d72-6281b25e368c"
+      Hint: Promo Text
+      Value: Multi Promo Demo
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230816T233302Z
