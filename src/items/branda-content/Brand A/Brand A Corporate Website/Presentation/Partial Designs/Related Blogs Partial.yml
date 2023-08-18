@@ -1,0 +1,55 @@
+﻿---
+ID: "3ee07b85-9993-48a0-b2a5-d6a11057e662"
+Parent: "e8c97927-6f57-4520-859a-25e84103cbf1"
+Template: "844c142b-38fb-48dc-8ac0-67628998a8d6"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Partial Designs/Related Blogs Partial
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "related-blogs-partial"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{BEE03635-2ADC-4BB1-9A9D-F143BE94C214}"
+          p:before="*"
+          s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;FieldNames=%7BDC27EB97-4A8D-4E32-9591-D8D75A0F8F4E%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+          s:ph="main" />
+        <r
+          uid="{63A31DD9-3D2A-43A3-BEC9-E5D2365861AB}"
+          p:after="*[1=2]"
+          s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+          s:par="Reset Caching Options&amp;GridParameters=%7B89647981-C99C-44E3-A55E-65BFF555E4C3%7D&amp;FieldNames=%7BE396DC0E-2B4D-4BE7-AAA3-30F14E09E500%7D&amp;Styles&amp;CacheClearingBehavior=Clear%20on%20publish&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+          s:ph="main" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230817T223110Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "92c2324e-384c-4208-bfb2-f25125cb3a7c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230818T021618Z

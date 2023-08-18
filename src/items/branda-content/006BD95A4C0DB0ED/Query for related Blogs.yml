@@ -1,0 +1,34 @@
+﻿---
+ID: "27c47759-8d61-4afa-8a6f-ee3ce7177f66"
+Parent: "2d475dec-6cb7-4a41-b0fb-bd7e03405b23"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: /sitecore/content/Brand A/Brand A Corporate Website/Presentation/Rendering Variants/Page Content/Related Blogs/Related Blogs/Query for related Blogs
+SharedFields:
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:./*"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230818T010418Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "414e2e79-d998-4f26-b7b2-4b92212ecb0f"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230818T011228Z

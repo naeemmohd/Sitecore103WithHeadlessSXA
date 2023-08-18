@@ -3,11 +3,18 @@ ID: "5f95ee98-dac1-4bca-b2d7-aab10b834d0c"
 Parent: "46dc6282-b7f9-4f43-9990-d6a86435f80e"
 Template: "ab939765-80d5-4bcb-9f2c-d5d26c8ad6eb"
 Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Page 3
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{7DA747AB-15D1-4ADD-B482-58CC0E81D3B4}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "166de4ca-6405-4556-a8e0-51289be09326"
+      Hint: Related Blogs
+      Value: "{6DDBC0D9-9920-41F5-B9CC-93085573C1B8}|{2EA376A4-6AA1-4037-B009-F8F0C65EEF1B}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230814T001228Z
@@ -16,14 +23,14 @@ Languages:
       Value: Page 3
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2b4b669d-18e2-4d81-a79f-d39a17715d9b"
+      Value: "785385b5-cc49-4ffc-a10e-cdf8aee4399f"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230814T001228Z
+      Value: 20230818T033411Z
     - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
       Hint: Title
       Value: Page 3

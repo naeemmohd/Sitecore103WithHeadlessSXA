@@ -3,6 +3,10 @@ ID: "2ea376a4-6aa1-4037-b009-f8f0c65eef1b"
 Parent: "688788af-2a33-4d26-acf0-ac07411cb67a"
 Template: "867d214a-cd72-4111-8881-a490e5b887fb"
 Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Blog/Blog 6
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{7DA747AB-15D1-4ADD-B482-58CC0E81D3B4}"
 Languages:
 - Language: en
   Versions:
@@ -38,10 +42,10 @@ Languages:
         <image mediaid="{9CC326D7-0074-4438-AF3B-5F873C637BCB}" />
     - ID: "6c615339-3b1b-4da9-8867-7d3ac4046bb4"
       Hint: Authors
-      Value: "{EA37FEFD-6BC9-4C2F-A5EF-73B38F30AAB2}|{66C83200-7B3C-4B89-B9D8-5E031503E5CF}"
+      Value: "{32379028-0F66-4753-B101-03607662659E}|{66C83200-7B3C-4B89-B9D8-5E031503E5CF}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "ede0d408-7dba-44e8-a41b-a9a09b4ea425"
+      Value: "7036629e-b073-4693-8e57-29e00425283e"
     - ID: "90515096-613f-4161-afc7-6c85c81770c9"
       Hint: Summary
       Value: 1914 translation by H. Rackham
@@ -51,7 +55,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230814T201106Z
+      Value: 20230818T033334Z
     - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
       Hint: Title
       Value: Blog 6

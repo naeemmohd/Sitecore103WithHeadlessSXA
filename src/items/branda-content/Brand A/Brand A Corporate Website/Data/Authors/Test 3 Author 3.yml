@@ -7,11 +7,17 @@ SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
   Value: People/32x32/user2.png
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{7DA747AB-15D1-4ADD-B482-58CC0E81D3B4}"
 Languages:
 - Language: en
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "21d368c6-67f1-46a4-ac1c-f5a21ef2df4e"
       Hint: Related Media
       Value: |
@@ -34,7 +40,7 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8574ff75-1aa2-41c2-b951-7fb8684e2083"
+      Value: "7af546f9-803e-4f71-a567-3c0495edd812"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
@@ -44,11 +50,11 @@ Languages:
       Value: Author 3
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230814T163518Z
+      Value: 20230818T033023Z
     - ID: "f6b125c6-0ab0-4fb1-b2b0-e82e85f4d1fa"
       Hint: First Name
       Value: Test 3
     - ID: "f786fa16-cc31-4175-9091-c0915f9a604e"
       Hint: Picture
       Value: |
-        <image mediaid="{4FFC3A10-4BA5-4528-BFF9-F87A9E6D3315}" />
+        <image mediaid="{4FFC3A10-4BA5-4528-BFF9-F87A9E6D3315}" ></image>

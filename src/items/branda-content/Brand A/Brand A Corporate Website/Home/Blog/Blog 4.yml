@@ -3,6 +3,10 @@ ID: "73ef8f95-8709-40de-8668-e4ef643ff062"
 Parent: "688788af-2a33-4d26-acf0-ac07411cb67a"
 Template: "867d214a-cd72-4111-8881-a490e5b887fb"
 Path: /sitecore/content/Brand A/Brand A Corporate Website/Home/Blog/Blog 4
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{A0A22E29-3C6D-4FF3-A553-465A22A731C3}"
 Languages:
 - Language: en
   Versions:
@@ -38,10 +42,10 @@ Languages:
         <image mediaid="{760447E9-39D6-4041-9C69-80A09B2FD6EA}" />
     - ID: "6c615339-3b1b-4da9-8867-7d3ac4046bb4"
       Hint: Authors
-      Value: "{32379028-0F66-4753-B101-03607662659E}|{87AC8AB5-4696-4CD3-9BAC-FAB0540EDD1E}"
+      Value: "{96F61640-0759-40E8-A368-9749418455B4}|{87AC8AB5-4696-4CD3-9BAC-FAB0540EDD1E}|{A4147C28-3490-453A-99EA-A42C8C482C0B}"
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "2f975317-9a02-4c29-af24-dfdd7e24b250"
+      Value: "72661978-e153-4059-aa86-b0b032d06538"
     - ID: "90515096-613f-4161-afc7-6c85c81770c9"
       Hint: Summary
       Value: "Where can I get some?"
@@ -51,7 +55,7 @@ Languages:
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230814T201053Z
+      Value: 20230818T033311Z
     - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
       Hint: Title
       Value: Blog 4

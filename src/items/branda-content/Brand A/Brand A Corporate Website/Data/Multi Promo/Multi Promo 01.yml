@@ -8,9 +8,12 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
     - ID: "20d3c096-2e0f-4a1d-b779-7cb88ff3e9a2"
       Hint: Linked Promos
-      Value: "{6C2245F7-F287-4489-8CB4-058F7F4D4365}|{8DABE640-61AA-4838-A852-2CB2C6BF1FA3}|{E5688EE6-AB5B-4DDE-A945-A1CEC7A0501F}"
+      Value: "{6C2245F7-F287-4489-8CB4-058F7F4D4365}|{8DABE640-61AA-4838-A852-2CB2C6BF1FA3}|{E5688EE6-AB5B-4DDE-A945-A1CEC7A0501F}|{4668D294-34F2-4196-BA12-90F97320D7B1}"
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20230816T233243Z
@@ -24,14 +27,14 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "8233a97c-3cd7-4be9-999b-6068a7ef99b8"
+      Value: "31cd48c6-b7a1-4252-934e-12dfed271479"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "ca27ea05-a831-41f1-9d72-6281b25e368c"
       Hint: Promo Text
-      Value: Multi Promo Demo
+      Value: Multi Promo Demo 01
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230816T233302Z
+      Value: 20230817T201928Z

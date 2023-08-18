@@ -12,7 +12,7 @@ SharedFields:
   Value: Rich Text
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
-  Value: 1
+  Value: 2
 Languages:
 - Language: en
   Versions:
@@ -31,11 +31,11 @@ Languages:
         sitecore\Admin
     - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
       Hint: __Revision
-      Value: "244f9928-cb1c-420c-a250-bb57e36ae2f9"
+      Value: "b240da3e-fe32-43ef-8a3f-1ecbc401bd04"
     - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
       Hint: __Updated by
       Value: |
         sitecore\Admin
     - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
       Hint: __Updated
-      Value: 20230813T232857Z
+      Value: 20230817T221438Z

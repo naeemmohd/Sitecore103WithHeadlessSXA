@@ -1,0 +1,74 @@
+﻿---
+ID: "ba099985-9637-4d10-ac85-99034cb3f9b0"
+Parent: "8db0a231-8412-429f-80ac-065203c7f4d6"
+Template: "867d214a-cd72-4111-8881-a490e5b887fb"
+Path: "/sitecore/content/Brand A/Brand A Corporate Website/Home/Blog/Blog 7/Blog 7-2"
+SharedFields:
+- ID: "97fb669d-5b8e-4829-9a24-06418c315d73"
+  Hint: SxaTags
+  Value: "{A0A22E29-3C6D-4FF3-A553-465A22A731C3}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1aa9892a-1c13-40c6-9c03-454ff102d4f7"
+      Hint: Content
+      Value: |
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230814T002112Z
+    - ID: "2b96565e-ff0c-4fa8-beb9-b269097b9765"
+      Hint: Author
+      Value: "Test Author 7-2"
+    - ID: "4eefe1f0-d808-444d-8afa-89a32cae9a47"
+      Hint: WebPublication
+      Value: 20221001T050000Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "68496a90-389c-407d-9ed6-e6bfa6e7dd4b"
+      Hint: LeadImage
+      Value: |
+        <image mediaid="{ED1EC7A7-8FCF-4420-93C7-F043A784ABB4}" />
+    - ID: "6c615339-3b1b-4da9-8867-7d3ac4046bb4"
+      Hint: Authors
+      Value: "{96F61640-0759-40E8-A368-9749418455B4}|{63D65092-D471-4101-8EF2-777ED157D1E1}|{32379028-0F66-4753-B101-03607662659E}|{87AC8AB5-4696-4CD3-9BAC-FAB0540EDD1E}|{EA37FEFD-6BC9-4C2F-A5EF-73B38F30AAB2}|{66C83200-7B3C-4B89-B9D8-5E031503E5CF}|{A4147C28-3490-453A-99EA-A42C8C482C0B}"
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "42405ca0-f53a-48fe-994d-fb2acbbc8030"
+    - ID: "90515096-613f-4161-afc7-6c85c81770c9"
+      Hint: Summary
+      Value: "What is Lorem Ipsum?"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230818T033838Z
+    - ID: "f8ecead7-af32-48d9-a1d4-03f67919b475"
+      Hint: Title
+      Value: "Blog 7-2"
