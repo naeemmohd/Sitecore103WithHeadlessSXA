@@ -1,0 +1,29 @@
+﻿---
+ID: "85496d24-c040-457b-9aea-c14ce12b930d"
+Parent: "6ce15477-5d5f-4e2f-9501-18c261de8da5"
+Template: "42ad55d2-bcc4-4177-9a8a-9b71bfe049c8"
+Path: /sitecore/content/MyStarterKit/MySite/Home/Page1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20230820T214518Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Page 1
+    - ID: "51a1cace-a899-435c-b0f3-8eafc8a8bbdc"
+      Hint: Title
+      Value: Page1
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a036e925-a605-42f7-bd16-19057c23e051"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20230820T214609Z
