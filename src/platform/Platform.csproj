@@ -65,9 +65,8 @@
     <PackageReference Include="Sitecore.Assemblies.SitecoreHeadlessServicesServer" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Config\Include\Sitecore.LoadBalancing.config" />
-    <Content Include="App_Config\Include\Sitecore.Media.config" />
-    <Content Include="App_Config\Include\StarterKit.config" />
+    <Content Include="App_Config\Sitecore\JavascriptServices\Sitecore.JavaScriptServices.Apps.config" />
+    <Content Include="App_Config\Sitecore\JavascriptServices\Sitecore.JavaScriptServices.ViewEngine.Http.config" />
     <None Include="Platform.wpp.targets" />
     <None Include="Properties\PublishProfiles\Local.pubxml" />
     <None Include="README.md" />
